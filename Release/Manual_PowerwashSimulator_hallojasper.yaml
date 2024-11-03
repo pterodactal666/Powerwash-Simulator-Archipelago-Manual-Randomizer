@@ -1,0 +1,297 @@
+﻿# Q. What are the progression items and their order?
+# A. Progressive items:
+#        Progressive Nozzles for each power washer: white, green, yellow, red, turbo, triple tip in that order
+#        Progressive Extensions for each power washer: short, long, extra long
+#        Stepstool (can still be moved out of the way, just not used to gain height)
+#        Progressive ladder: base length, halfway extended, fully extended
+#        Scaffolding Floors (Allows you to go up that many floors on a scaffolding)
+#        Completion Stars (70 stars to goal in Parts Mode, 35 to goal in Percentage Mode)
+# 
+# Q. How do I know where to clean?
+# A. For Parts Mode:
+#        Level Part Unlocks: Allows cleaning of various parts in levels.
+#        All Locations show which "Level Part Unlock" is required for that location by the name between *
+#        Example: the location "Back Garden Stepping Stones *Patio*" requires the "Back Garden Patio" item.
+#        A few locations also have a number, this is for the few locations for which that part name appears that many times in the in game parts list, all have to be cleaned for the check.
+#    For Percentage Mode:
+#        Level Unlocks: Allows cleaning that level.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify that your Archipelago options are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game, limited to 16 characters.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Manual_PowerwashSimulator_hallojasper Template
+
+game: Manual_PowerwashSimulator_hallojasper
+requires:
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+
+Manual_PowerwashSimulator_hallojasper:
+  # Game Options
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # - **Locations:** ensure everything can be reached and acquired.
+    # - **Items:** ensure all logically relevant items can be acquired.
+    # - **Minimal:** ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  Parts_Mode:
+    # Set to True for parts mode (unlock part groups as items, locations are cleaning parts)
+    # Set to False for percentage mode (unlock entire levels, locations are every 10% cleaned)
+    'false': 0
+    'true': 50
+
+  Hard_Parkour:
+    # Enabling this setting means you might be required to make awkward parkour jumps to get checks.
+    # Jumping onto a roof for example.
+    'false': 50
+    'true': 0
+
+  Include_Van:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Back_Garden:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Bungalow:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Playground:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Detached_House:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Shoe_House:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Vintage_Car:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Grandpa_Millers_Car:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Skatepark:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Fire_Truck:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Dirt_Bike:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Golf_Cart:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Motorbike_and_Sidecar:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_SUV:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Penny_Farthing:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Recreation_Vehicle:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Fire_Helicopter:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Mayors_Mansion:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Tree_House:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Drill:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Washroom:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Frolic_Boat:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Monster_Truck:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Ferris_Wheel:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Subway_Platform:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Fortune_Tellers_Wagon:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Ancient_Statue:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Stunt_Plane:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Include_Ancient_Monument:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  Include_Recreational_Vehicle_Again:
+    # Should items/locations linked to this option be enabled?
+    'false': 50
+    'true': 0
+
+  starting_level:
+    # Choose your starting level, the level must be enabled in the yaml.
+    # Not all levels are included because no checks would be available with the starting gear in those levels.
+    # Random will give you a random starting level among your enabled levels.
+    random: 0
+    van: 50
+    back_garden: 0
+    playground: 0
+    detached_house: 0
+    vintage_car: 0
+    skatepark: 0
+    fire_truck: 0
+    dirt_bike: 0
+    gold_cart: 0
+    motorbike_and_sidecar: 0
+    suv: 0
+    fire_helicopter: 0
+    mayors_mansion: 0
+    tree_house: 0
+    drill: 0
+    monster_truck: 0
+    ferris_wheel: 0
+    subway_platform: 0
+    stunt_plane: 0
+    recreational_vehicle_again: 0
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
