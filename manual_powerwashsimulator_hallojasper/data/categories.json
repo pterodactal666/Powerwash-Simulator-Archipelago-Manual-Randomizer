@@ -98,6 +98,9 @@
     "Ancient Monument": {
         "yaml_option": ["Include_Ancient_Monument"]
     },
+    "Fishing Boat": {
+        "yaml_option": ["Include_Fishing_Boat"]
+    },
     "Recreational Vehicle Again": {
         "yaml_option": ["Include_Recreational_Vehicle_Again"]
     }

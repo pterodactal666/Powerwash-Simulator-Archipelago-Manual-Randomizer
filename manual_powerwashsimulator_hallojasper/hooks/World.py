@@ -5,6 +5,7 @@ from BaseClasses import MultiWorld, CollectionState
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
 from ..Locations import ManualLocation
+from Options import OptionError
 
 # Raw JSON data from the Manual apworld, respectively:
 #          data/game.json, data/items.json, data/locations.json, data/regions.json
@@ -65,15 +66,12 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     enabled_categories = []
     for category in category_list:
         if is_category_enabled(multiworld, player, category):
-            if category in level_list:
-                enabled_categories.append(category)
+            enabled_categories.append(category)
 
-    if world.options.starting_level.value >= 0:
-        starting_level_index = world.options.starting_level.value
-        starting_level = level_list[starting_level_index]
-    else:
-        starting_level = world.random.choice(enabled_categories)
-    print(starting_level)
+    starting_level_index = world.options.starting_level.value
+    starting_level = level_list[starting_level_index]
+    if starting_level not in enabled_categories:
+        raise OptionError("Starting level {} isn't enabled, you can't start with a disabled level".format(starting_level))
 
     starting_items = [
         {

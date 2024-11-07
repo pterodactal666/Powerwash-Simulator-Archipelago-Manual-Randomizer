@@ -6393,5 +6393,383 @@
 		"region": "Ingrained",
 		"category": ["Percentage Mode", "Recreational Vehicle Again"],
 		"requires": "|Recreational Vehicle Again|"
+	},
+	{
+		"name": "Fishing Boat Anchor *Anchor*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Anchor|"
+	},
+	{
+		"name": "Fishing Boat Anchor Chain *Anchor*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Anchor|"
+	},
+	{
+		"name": "Fishing Boat Anchor Holes *Anchor*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Anchor|"
+	},
+	{
+		"name": "Fishing Boat Anchor Pipe *Anchor*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Anchor|"
+	},
+	{
+		"name": "Fishing Boat Anchor Windlass *Anchor*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Anchor|"
+	},
+	{
+		"name": "Fishing Boat Bridge *Bridge*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Bridge|"
+	},
+	{
+		"name": "Fishing Boat Bridge Deck *Bridge*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Bridge|"
+	},
+	{
+		"name": "Fishing Boat Bridge Door *Bridge*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Bridge|"
+	},
+	{
+		"name": "Fishing Boat Bridge Door Window *Bridge*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Bridge|"
+	},
+	{
+		"name": "Fishing Boat Bridge Railings *Bridge*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Bridge|"
+	},
+	{
+		"name": "Fishing Boat Bridge Trim *Bridge*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Bridge|"
+	},
+	{
+		"name": "Fishing Boat Bridge Wall *Bridge*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Bridge|"
+	},
+	{
+		"name": "Fishing Boat Bridge Windows *Bridge*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Bridge|"
+	},
+	{
+		"name": "Fishing Boat Cabin *Cabin*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Cabin|"
+	},
+	{
+		"name": "Fishing Boat Cabin Door *Cabin*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Cabin|"
+	},
+	{
+		"name": "Fishing Boat Cabin Door Window *Cabin*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Cabin|"
+	},
+	{
+		"name": "Fishing Boat Cabin Trim *Cabin*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Cabin|"
+	},
+	{
+		"name": "Fishing Boat Cabin Wall *Cabin*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Cabin|"
+	},
+	{
+		"name": "Fishing Boat Cabin Windows *Cabin*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Cabin|"
+	},
+	{
+		"name": "Fishing Boat Catch Box *Storage*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Storage|"
+	},
+	{
+		"name": "Fishing Boat Catch Box Doors *Storage*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Storage|"
+	},
+	{
+		"name": "Fishing Boat Bow *Main Deck*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Main Deck|"
+	},
+	{
+		"name": "Fishing Boat Main Deck *Main Deck*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Main Deck|"
+	},
+	{
+		"name": "Fishing Boat Deck Walls *Main Deck*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Main Deck|"
+	},
+	{
+		"name": "Fishing Boat Deck Wall Trims *Main Deck*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Main Deck|"
+	},
+	{
+		"name": "Fishing Boat Fairleads *Miscellaneous*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Miscellaneous|"
+	},
+	{
+		"name": "Fishing Boat Fairlead dividers *Miscellaneous*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Miscellaneous|"
+	},
+	{
+		"name": "Fishing Boat Funnel *Roof*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Roof|"
+	},
+	{
+		"name": "Fishing Boat Gunwales *Main Deck*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Main Deck| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|)"
+	},
+	{
+		"name": "Fishing Boat Hatch *Storage*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Storage|"
+	},
+	{
+		"name": "Fishing Boat Hatch Door *Storage*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Storage|"
+	},
+	{
+		"name": "Fishing Boat Port Hull *Hull*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Hull| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|)"
+	},
+	{
+		"name": "Fishing Boat Port Hull Trims *Hull*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Hull| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|)"
+	},
+	{
+		"name": "Fishing Boat Starboard Hull *Hull*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Hull| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|)"
+	},
+	{
+		"name": "Fishing Boat Starboard Hull Trims *Hull*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Hull| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|)"
+	},
+	{
+		"name": "Fishing Boat Keel *Hull*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Hull|"
+	},
+	{
+		"name": "Fishing Boat Lifebuoys *Miscellaneous*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Miscellaneous|"
+	},
+	{
+		"name": "Fishing Boat Lifebuoy Hooks *Miscellaneous*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Miscellaneous|"
+	},
+	{
+		"name": "Fishing Boat Mast *Mast*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Mast|"
+	},
+	{
+		"name": "Fishing Boat Mooring Holes *Miscellaneous*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Miscellaneous|"
+	},
+	{
+		"name": "Fishing Boat Propeller *Hull*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Hull|"
+	},
+	{
+		"name": "Fishing Boat Pulley *Mast*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Mast|"
+	},
+	{
+		"name": "Fishing Boat Pulley Arm *Mast*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Mast|"
+	},
+	{
+		"name": "Fishing Boat Pulley Chain *Mast*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Mast|"
+	},
+	{
+		"name": "Fishing Boat Roof Deck *Roof*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Roof|"
+	},
+	{
+		"name": "Fishing Boat Roof Railings *Roof*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Roof|"
+	},
+	{
+		"name": "Fishing Boat Roof Wall *Roof*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Roof|"
+	},
+	{
+		"name": "Fishing Boat Rudder *Hull*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Hull|"
+	},
+	{
+		"name": "Fishing Boat Spotlights *Miscellaneous*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Miscellaneous|"
+	},
+	{
+		"name": "Fishing Boat Steps *Main Deck*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Main Deck|"
+	},
+	{
+		"name": "Fishing Boat Supply Crate *Storage*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Storage|"
+	},
+	{
+		"name": "Fishing Boat Winch *Miscellaneous*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Miscellaneous|"
+	},
+	{
+		"name": "Fishing Boat Winch Rope *Miscellaneous*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat Miscellaneous|"
+	},
+	{
+		"name": "Fishing Boat 10%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat|"
+	},
+	{
+		"name": "Fishing Boat 20%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat|"
+	},
+	{
+		"name": "Fishing Boat 30%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat|"
+	},
+	{
+		"name": "Fishing Boat 40%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat|"
+	},
+	{
+		"name": "Fishing Boat 50%",
+		"region": "Tough",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat|"
+	},
+	{
+		"name": "Fishing Boat 60%",
+		"region": "Tough",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat|"
+	},
+	{
+		"name": "Fishing Boat 70%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat|"
+	},
+	{
+		"name": "Fishing Boat 80%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat|"
+	},
+	{
+		"name": "Fishing Boat 90%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat|"
+	},
+	{
+		"name": "Fishing Boat 100%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"requires": "|Fishing Boat| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|)"
 	}
 ]

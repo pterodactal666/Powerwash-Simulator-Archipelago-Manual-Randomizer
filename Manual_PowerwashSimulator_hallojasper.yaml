@@ -241,8 +241,8 @@ Manual_PowerwashSimulator_hallojasper:
     # Choose your starting level, the level must be enabled in the yaml.
     # Not all levels are included because no checks would be available with the starting gear in those levels.
     # Random will give you a random starting level among your enabled levels.
-    random: 0
-    van: 50
+    random: 50
+    van: 0
     back_garden: 0
     playground: 0
     detached_house: 0

@@ -1348,5 +1348,65 @@
 		"name": "Recreational Vehicle Again",
 		"category": ["Percentage Mode", "Recreational Vehicle Again"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Anchor",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Hull",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Main Deck",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Cabin",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Bridge",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Roof",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Mast",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Storage",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Miscellaneous",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"progression": true
 	}
 ]

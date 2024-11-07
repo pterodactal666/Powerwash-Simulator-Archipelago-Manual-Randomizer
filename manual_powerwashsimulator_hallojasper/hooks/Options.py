@@ -31,7 +31,6 @@ class Starting_level(Choice):
     Not all levels are included because no checks would be available with the starting gear in those levels.
     Random will give you a random starting level among your enabled levels.
     """
-    option_random = -1
     option_van = 0
     option_back_garden = 1
     option_playground = 2
