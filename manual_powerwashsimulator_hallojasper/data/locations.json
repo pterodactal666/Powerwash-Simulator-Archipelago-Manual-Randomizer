@@ -6771,5 +6771,335 @@
 		"region": "Ingrained",
 		"category": ["Percentage Mode", "Fishing Boat"],
 		"requires": "|Fishing Boat| AND ((|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR |Progressive Prime Vista PRO Nozzle:4|)"
+	},
+	{
+		"name": "Forest Cottage Back Dormer Cap *Back Dormer*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Back Dormer| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Back Dormer Frames *Back Dormer*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Back Dormer| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Back Dormer Roofs *Back Dormer*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Back Dormer| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Back Dormer Wall *Back Dormer*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Back Dormer| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Back Gable Roofs *Back Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Back Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:3|))"
+	},
+	{
+		"name": "Forest Cottage Back Gable Roof Cap *Back Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Back Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Back Gable Roof Frames *Back Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Back Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Cellar Doors *Foundation*",
+		"region": "Stubborn",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Foundation|"
+	},
+	{
+		"name": "Forest Cottage Cellar Door Handles *Foundation*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Foundation|"
+	},
+	{
+		"name": "Forest Cottage Chimney *Main Roof*",
+		"region": "Stubborn",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Main Roof| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Chimney Shaft *Main Roof*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Main Roof| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 3000 Nozzle:3| OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Urban X U2 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension|) OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Forest Cottage Door *Front Wall*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Wall|"
+	},
+	{
+		"name": "Forest Cottage Door Frame *Front Wall*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Wall|"
+	},
+	{
+		"name": "Forest Cottage Door Handle *Front Wall*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Wall|"
+	},
+	{
+		"name": "Forest Cottage Back Eaves *Back Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Back Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR |Progressive Prime Vista PRO Nozzle:3| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|))"
+	},
+	{
+		"name": "Forest Cottage Front Eaves *Front Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR |Progressive Prime Vista PRO Nozzle:3| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|))"
+	},
+	{
+		"name": "Forest Cottage Side Eaves *Side Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Side Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR |Progressive Prime Vista PRO Nozzle:3| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|))"
+	},
+	{
+		"name": "Forest Cottage Foundations *Foundation*",
+		"region": "Stubborn",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Foundation|"
+	},
+	{
+		"name": "Forest Cottage Front Dormer Cap *Front Dormer*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Dormer| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Front Dormer Frames *Front Dormer*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Dormer| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Front Dormer Roofs *Front Dormer*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Dormer| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Front Dormer Wall *Front Dormer*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Dormer| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Front Gable Roofs *Front Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:3| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:4| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension:1|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:1| AND |Progressive Prime Vista PRO Extension:3|))"
+	},
+	{
+		"name": "Forest Cottage Front Gable Roof Cap *Front Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Front Gable Roof Frames *Front Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Gates *Fence*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Fence|"
+	},
+	{
+		"name": "Forest Cottage Main Roofs *Main Roof*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Main Roof| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Main Roof Cap *Main Roof*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Main Roof| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Main Roof Frames *Main Roof*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Main Roof| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Posts *Fence*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Fence|"
+	},
+	{
+		"name": "Forest Cottage Side Gable Roofs *Side Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Side Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Side Gable Roof Caps *Side Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Side Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Side Gable Roof Frames *Side Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Side Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Steps *Front Wall*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Wall|"
+	},
+	{
+		"name": "Forest Cottage Stone Walls *Fence*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Fence|"
+	},
+	{
+		"name": "Forest Cottage Timber Frames *Foundation*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Foundation|"
+	},
+	{
+		"name": "Forest Cottage Timber Pillars *Foundation*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Foundation|"
+	},
+	{
+		"name": "Forest Cottage Walls *Walls*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Walls|"
+	},
+	{
+		"name": "Forest Cottage Back Wall *Back Gable*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Back Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR |Progressive Prime Vista PRO Nozzle:3| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|))"
+	},
+	{
+		"name": "Forest Cottage Front Wall *Front Wall*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Wall| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR |Progressive Prime Vista PRO Nozzle:3| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|))"
+	},
+	{
+		"name": "Forest Cottage Side Walls *Side Gable*",
+		"region": "Stubborn",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Side Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Weather Vane *Front Gable*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Front Gable| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:3| AND |Progressive Prime Vista PRO Extension|))"
+	},
+	{
+		"name": "Forest Cottage Windows *Walls*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Walls| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Window Frames *Walls*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Walls| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage Window Sills *Walls*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage Walls| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Forest Cottage 10%",
+		"region": "Surface",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR |Progressive Prime Vista 1500 Nozzle:2| OR |Progressive Prime Vista 3000 Nozzle| OR |Progressive Urban X U2 Nozzle| OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Forest Cottage 20%",
+		"region": "Surface",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR |Progressive Prime Vista 1500 Nozzle:2| OR |Progressive Prime Vista 3000 Nozzle| OR |Progressive Urban X U2 Nozzle| OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Forest Cottage 30%",
+		"region": "Surface",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:2|) OR |Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle| OR (|Progressive Urban X U2 Nozzle| AND |Progressive Urban X U2 Extension:2|) OR |Progressive Urban X U2 Nozzle:2| OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Forest Cottage 40%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:2| AND |Progressive Prime Vista 1500 Extension:3|) OR |Progressive Prime Vista 1500 Nozzle:3| OR |Progressive Prime Vista 3000 Nozzle| OR (|Progressive Urban X U2 Nozzle| AND |Progressive Urban X U2 Extension:3|) OR |Progressive Urban X U2 Nozzle:2| OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Forest Cottage 50%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension|) OR |Progressive Prime Vista 1500 Nozzle:4| OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:2| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension|) OR |Progressive Urban X U2 Nozzle:3| OR |Progressive Prime Vista PRO Nozzle|)"
+	},
+	{
+		"name": "Forest Cottage 60%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR |Progressive Prime Vista 3000 Nozzle:4| OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR |Progressive Prime Vista PRO Nozzle:2| OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|))"
+	},
+	{
+		"name": "Forest Cottage 70%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension|))"
+	},
+	{
+		"name": "Forest Cottage 80%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 1500 Nozzle:3| AND |Progressive Prime Vista 1500 Extension:3|) OR (|Progressive Prime Vista 1500 Nozzle:4| AND |Progressive Prime Vista 1500 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension|) OR (|Progressive Urban X U2 Nozzle:2| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:2|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:2|))"
+	},
+	{
+		"name": "Forest Cottage 90%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)} OR (|Progressive Prime Vista 3000 Nozzle:2| AND |Progressive Prime Vista 3000 Extension:3|) OR (|Progressive Prime Vista 3000 Nozzle:4| AND |Progressive Prime Vista 3000 Extension:2|) OR (|Progressive Urban X U2 Nozzle:3| AND |Progressive Urban X U2 Extension:3|) OR (|Progressive Prime Vista PRO Nozzle:2| AND |Progressive Prime Vista PRO Extension:2|) OR (|Progressive Prime Vista PRO Nozzle| AND |Progressive Prime Vista PRO Extension:3|))"
+	},
+	{
+		"name": "Forest Cottage 100%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
 	}
 ]

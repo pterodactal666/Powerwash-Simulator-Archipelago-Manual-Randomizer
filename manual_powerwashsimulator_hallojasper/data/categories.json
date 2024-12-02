@@ -41,6 +41,9 @@
     "Fire Truck": {
         "yaml_option": ["Include_Fire_Truck"]
     },
+    "Forest Cottage": {
+        "yaml_option": ["Include_Forest_Cottage"]
+    },
     "Dirt Bike": {
         "yaml_option": ["Include_Dirt_Bike"]
     },

@@ -1408,5 +1408,71 @@
 		"name": "Fishing Boat",
 		"category": ["Percentage Mode", "Fishing Boat"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Back Dormer",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Back Gable",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Front Dormer",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Front Gable",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Front Wall",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Fence",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Side Gable",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Main Roof",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Walls",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Foundation",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"progression": true
 	}
 ]
