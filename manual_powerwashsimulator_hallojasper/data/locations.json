@@ -7101,5 +7101,485 @@
 		"region": "Ingrained",
 		"category": ["Percentage Mode", "Forest Cottage"],
 		"requires": "|Forest Cottage| AND (|Stepstool| OR |Ladder Length| OR |Scaffolding Floor| OR {YamlEnabled(Hard_Parkour)})"
+	},
+	{
+		"name": "Private Jet Ailerons *Wings*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Wings|"
+	},
+	{
+		"name": "Private Jet Antennae *Miscellaneous*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Miscellaneous|"
+	},
+	{
+		"name": "Private Jet Cockpit *Cockpit*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Cockpit|"
+	},
+	{
+		"name": "Private Jet Cockpit Sensors *Cockpit*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Cockpit|"
+	},
+	{
+		"name": "Private Jet Door *Cockpit*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Cockpit|"
+	},
+	{
+		"name": "Private Jet Elevators *Tail*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Tail|"
+	},
+	{
+		"name": "Private Jet Fuel Tank Mount *Fuselage*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Fuselage|"
+	},
+	{
+		"name": "Private Jet Fuselage *Fuselage*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Fuselage|"
+	},
+	{
+		"name": "Private Jet Fuselage Sensors *Fuselage*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Fuselage|"
+	},
+	{
+		"name": "Private Jet Fuselage Wiring *Fuselage*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Fuselage|"
+	},
+	{
+		"name": "Private Jet Horizontal Stabilisers *Tail*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Tail|"
+	},
+	{
+		"name": "Private Jet Hydraulic Pipes *Landing Gear*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Landing Gear|"
+	},
+	{
+		"name": "Private Jet Landing Gears *Landing Gear*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Landing Gear|"
+	},
+	{
+		"name": "Private Jet Landing Gear Bays *Landing Gear*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Landing Gear|"
+	},
+	{
+		"name": "Private Jet Landing Gear Doors *Landing Gear*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Landing Gear|"
+	},
+	{
+		"name": "Private Jet Laser *Laser*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Laser|"
+	},
+	{
+		"name": "Private Jet Laser Mount *Laser*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Laser|"
+	},
+	{
+		"name": "Private Jet Laser Wiring *Laser*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Laser|"
+	},
+	{
+		"name": "Private Jet Rudder *Tail*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Tail|"
+	},
+	{
+		"name": "Private Jet Static Wicks *Miscellaneous*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Miscellaneous|"
+	},
+	{
+		"name": "Private Jet Tail Scoops *Tail*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Tail|"
+	},
+	{
+		"name": "Private Jet Turbo Jet Engines *Propulsion*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Propulsion|"
+	},
+	{
+		"name": "Private Jet Tyres *Landing Gear*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Landing Gear|"
+	},
+	{
+		"name": "Private Jet Vertical Stabilisers *Tail*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Tail|"
+	},
+	{
+		"name": "Private Jet Vortex Generators *Propulsion*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Propulsion|"
+	},
+	{
+		"name": "Private Jet Wheels *Landing Gear*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Landing Gears|"
+	},
+	{
+		"name": "Private Jet Windows *Fuselage*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Fuselage|"
+	},
+	{
+		"name": "Private Jet Windshields *Cockpit*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Cockpit|"
+	},
+	{
+		"name": "Private Jet Windshield Frame *Cockpit*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Cockpit|"
+	},
+	{
+		"name": "Private Jet Wings *Wings*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Wings|"
+	},
+	{
+		"name": "Private Jet Anti-Gravity Boosters *Propulsion*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Propulsion|"
+	},
+	{
+		"name": "Private Jet Anti-Gravity Panels *Propulsion*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Propulsion|"
+	},
+	{
+		"name": "Private Jet Flaps *Wings*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Wings|"
+	},
+	{
+		"name": "Private Jet Wing Lights *Miscellaneous*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Miscellaneous|"
+	},
+	{
+		"name": "Private Jet Wing Mount *Fuselage*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Fuselage|"
+	},
+	{
+		"name": "Private Jet Wing Mount Sensors *Fuselage*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Fuselage|"
+	},
+	{
+		"name": "Private Jet Wing Wirings *Wings*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Private Jet"],
+		"requires": "|Private Jet Wings|"
+	},
+	{
+		"name": "Private Jet 10%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Private Jet 20%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Private Jet 30%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Private Jet 40%",
+		"region": "EmbeddedEmbedded",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Private Jet 50%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Private Jet 60%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Private Jet 70%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Private Jet 80%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Private Jet 90%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Private Jet 100%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Private Jet"],
+		"requires": "|Private Jet|"
+	},
+	{
+		"name": "Temple Barge Boards *Roof*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Roof|"
+	},
+	{
+		"name": "Temple Braziers *Entrance*",
+		"region": "Surface",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Entrance|"
+	},
+	{
+		"name": "Temple Buttresses *Walls*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Walls|"
+	},
+	{
+		"name": "Temple Corner Posts *Walls*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Walls|"
+	},
+	{
+		"name": "Temple Doors *Entrance*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Entrance|"
+	},
+	{
+		"name": "Temple Door Decoration *Entrance*",
+		"region": "Surface",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Entrance|"
+	},
+	{
+		"name": "Temple Eaves *Roof*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Roof|"
+	},
+	{
+		"name": "Temple Figureheads *Roof*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Roof|"
+	},
+	{
+		"name": "Temple Ledges *Miscellaneous*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Miscellaneous|"
+	},
+	{
+		"name": "Temple Overhangs *Miscellaneous*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Miscellaneous|"
+	},
+	{
+		"name": "Temple Pedestals *Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Entrance|"
+	},
+	{
+		"name": "Temple Roofs *Roof*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Roof|"
+	},
+	{
+		"name": "Temple Roof Ridges *Roof*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Roof|"
+	},
+	{
+		"name": "Temple Stairs *Entrance*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Entrance|"
+	},
+	{
+		"name": "Temple Stone Bases *Walls*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Walls|"
+	},
+	{
+		"name": "Temple Towers *Walls*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Walls|"
+	},
+	{
+		"name": "Temple Walls *Walls*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Walls|"
+	},
+	{
+		"name": "Temple Wall Bases *Walls*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Walls|"
+	},
+	{
+		"name": "Temple Wall Decoration *Windows*",
+		"region": "Ingrained",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Windows|"
+	},
+	{
+		"name": "Temple Windows *Windows*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Windows|"
+	},
+	{
+		"name": "Temple Window Decorations *Windows*",
+		"region": "Encrusted",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Windows|"
+	},
+	{
+		"name": "Temple Window Frames *Windows*",
+		"region": "Tough",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Windows|"
+	},
+	{
+		"name": "Temple Wooden Trims *Miscellaneous*",
+		"region": "Embedded",
+		"category": ["Parts Mode", "Temple"],
+		"requires": "|Temple Miscellaneous|"
+	},
+	{
+		"name": "Temple 10%",
+		"region": "Surface",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
+	},
+	{
+		"name": "Temple 20%",
+		"region": "Surface",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
+	},
+	{
+		"name": "Temple 30%",
+		"region": "Surface",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
+	},
+	{
+		"name": "Temple 40%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
+	},
+	{
+		"name": "Temple 50%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
+	},
+	{
+		"name": "Temple 60%",
+		"region": "Encrusted",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
+	},
+	{
+		"name": "Temple 70%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
+	},
+	{
+		"name": "Temple 80%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
+	},
+	{
+		"name": "Temple 90%",
+		"region": "Embedded",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
+	},
+	{
+		"name": "Temple 100%",
+		"region": "Ingrained",
+		"category": ["Percentage Mode", "Temple"],
+		"requires": "|Temple|"
 	}
 ]

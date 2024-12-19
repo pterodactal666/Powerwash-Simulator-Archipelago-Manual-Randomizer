@@ -1474,5 +1474,95 @@
 		"name": "Forest Cottage",
 		"category": ["Percentage Mode", "Forest Cottage"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Landing Gear",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Tail",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Wings",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Cockpit",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Propulsion",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Fuselage",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Laser",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Miscellaneous",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet",
+		"category": ["Percentage Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Roof",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Entrance",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Windows",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Walls",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Miscellaneous",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple",
+		"category": ["Percentage Mode", "Temple"],
+		"progression": true
 	}
 ]

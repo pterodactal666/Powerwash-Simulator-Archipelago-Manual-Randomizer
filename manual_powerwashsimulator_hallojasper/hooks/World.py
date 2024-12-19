@@ -64,7 +64,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
 def before_create_items_filler(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
     # Use this hook to remove items from the item pool
     level_list = ["Van", "Back Garden", "Playground", "Detached House", "Vintage Car", "Skatepark", "Fire Truck", 
-                  "Dirt Bike", "Golf Cart", "Motorbike and Sidecar", "SUV", "Fire Helicopter", "Mayor's Mansion", "Tree House", "Drill", "Monster Truck", 
+                  "Dirt Bike", "Golf Cart", "Motorbike and Sidecar", "SUV", "Fire Helicopter", "Mayor's Mansion", "Tree House", "Drill", "Temple", "Monster Truck", 
                   "Ferris Wheel", "Subway Platform", "Stunt Plane", "Recreational Vehicle Again"]
     category_list = world.category_table.keys()
     enabled_categories = []

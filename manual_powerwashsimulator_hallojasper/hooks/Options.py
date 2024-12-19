@@ -46,11 +46,12 @@ class Starting_level(Choice):
     option_mayors_mansion = 12
     option_tree_house = 13
     option_drill = 14
-    option_monster_truck = 15
-    option_ferris_wheel = 16
-    option_subway_platform = 17
-    option_stunt_plane = 18
-    option_recreational_vehicle_again = 19
+    option_temple = 15
+    option_monster_truck = 16
+    option_ferris_wheel = 17
+    option_subway_platform = 18
+    option_stunt_plane = 19
+    option_recreational_vehicle_again = 20
 
 class TotalCharactersToWinWith(Range):
     """Instead of having to beat the game with all characters, you can limit locations to a subset of character victory locations."""

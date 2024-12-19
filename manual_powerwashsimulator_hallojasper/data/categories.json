@@ -74,8 +74,14 @@
     "Drill": {
         "yaml_option": ["Include_Drill"]
     },
+    "Temple": {
+        "yaml_option": ["Include_Temple"]
+    },
     "Washroom": {
         "yaml_option": ["Include_Washroom"]
+    },
+    "Private Jet": {
+        "yaml_option": ["Include_Private_Jet"]
     },
     "Frolic Boat": {
         "yaml_option": ["Include_Frolic_Boat"]

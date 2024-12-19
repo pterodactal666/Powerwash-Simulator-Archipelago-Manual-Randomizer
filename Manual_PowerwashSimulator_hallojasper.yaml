@@ -153,6 +153,11 @@ Manual_PowerwashSimulator_hallojasper:
     'false': 50
     'true': 0
 
+  Include_Temple:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
   Include_Washroom:
     # Should items/locations linked to this option be enabled?
     'false': 50
