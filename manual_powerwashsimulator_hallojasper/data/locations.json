@@ -5,79 +5,79 @@
 		"victory": true
 	},
 	{
-		"name": "Van Bonnet",
+		"name": "Van Bonnet *Body*",
 		"region": "Surface",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Body|"
 	},
 	{
-		"name": "Van Bumpers",
+		"name": "Van Bumpers *Tyres*",
 		"region": "Surface",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Tyres|"
 	},
 	{
-		"name": "Van Doors",
+		"name": "Van Doors *Body*",
 		"region": "Tough",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Body|"
 	},
 	{
-		"name": "Van Grille",
+		"name": "Van Grille *Body*",
 		"region": "Surface",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Body|"
 	},
 	{
-		"name": "Van Headlights",
+		"name": "Van Headlights *Lights*",
 		"region": "Tough",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Lights|"
 	},
 	{
-		"name": "Van Hubcaps",
+		"name": "Van Hubcaps *Tyres*",
 		"region": "Surface",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Tyres|"
 	},
 	{
-		"name": "Van Indicators",
+		"name": "Van Indicators *Lights*",
 		"region": "Surface",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Lights|"
 	},
 	{
-		"name": "Van Body",
+		"name": "Van Body *Body*",
 		"region": "Tough",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Body|"
 	},
 	{
-		"name": "Van Tyres",
+		"name": "Van Tyres *Tyres*",
 		"region": "Surface",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Tyres|"
 	},
 	{
-		"name": "Van Windows",
+		"name": "Van Windows *Windows*",
 		"region": "Tough",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Windows|"
 	},
 	{
-		"name": "Van Windscreen",
+		"name": "Van Windscreen *Windows*",
 		"region": "Tough",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Windows|"
 	},
 	{
-		"name": "Van Wing Mirrors",
+		"name": "Van Wing Mirrors *Windows*",
 		"region": "Surface",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Windows|"
 	},
 	{
-		"name": "Van Brake Lights",
+		"name": "Van Brake Lights *Lights*",
 		"region": "Surface",
 		"category": ["Parts Mode", "Van"],
 		"requires": "|Van Lights|"
